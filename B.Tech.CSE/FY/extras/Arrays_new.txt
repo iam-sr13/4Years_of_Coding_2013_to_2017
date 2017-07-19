@@ -1,0 +1,6 @@
+Raj
+size of array - 25 bytes
+Amal
+size of array - 25 bytes
+Joel
+size of array - 25 bytes

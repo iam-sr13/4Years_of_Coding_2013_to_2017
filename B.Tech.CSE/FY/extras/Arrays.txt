@@ -1,0 +1,6 @@
+Amal
+size of array - 4 bytes
+Raj
+size of array - 3 bytes
+Joel
+size of array - 4 bytes
